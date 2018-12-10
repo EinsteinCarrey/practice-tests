@@ -1,0 +1,13 @@
+{
+  "name": "practice-tests",
+  "repository": "https://github.com/EinsteinCarrey/practice-tests.git",
+  "author": "Einstein",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1",
+    "babel-preset-env": "^1.7.0"
+  }
+}
